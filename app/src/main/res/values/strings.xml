@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Circadian lighthouse</string>
+    <string name="intervalProgression">Interval progression for waking up</string>
+    <string name="sound">Sounds</string>
+    <string name="back">Back</string>
+    <string name="manual">"The Circadian Lighthouse is your own personal lighthouse with the red pulsing light that will make you fall asleep or just relax whenever you desire.
+    \nAlso, by using the complementary turquoise/cyan in a reciprocal way the Circadian Lighthouse makes you get up and stand up, lifts up your mood and keeps your spirits up throughout the day.
+    \nWhen it is time to sleep or relax, adjust the progression of the fade-out and the intervals between the red light signals to find the combination you resonate with the most. The fade-out progression mimics the sunset and the more "sunsets" you experience the more ready you get to fall asleep. If your bedroom is dark enough, it will suffice to turn the screen of your mobile phone against the wall to feel the sensation of having a lighthouse in your room and fall asleep with ease.
+    \nLikewise but the other way round, the fade-in of the turquoise/cyan light signal will help you get up in the morning (turquoise) or lift you up in times of afternoon drowsiness or whenever you cannot afford a nap (cyan). Exposure to cyan also helps when you find yourself in need of an impetus for activities like reading, writing, talking and socializing.
+    \nThe end result is the optimization of your own circadian rhythm with benefits such as healthier sleeping habits, lifted overall mood, improved concentration, enhanced memory, learning and work efficiency and, finally, homeostasis and better general health.
+    \nPlace your smartphone at the corner of your room or anywhere close to the margin of your visual field. You don't have to keep your phone in your hand or next to you or watch directly into the screen.
+    \Now you can turn the sound on and start the journey!"</string>
+    <string name="man">MANUAL</string>
+    <string name="fadeOutProgression">Fade-out progression</string>
+    <string name="nightIntervalProgression">Interval progression</string>
+    <string name="fadeInProgression">Fade-in progression</string>
+    <string name="fadeInTime">Initial Fade-in duration</string>
+    <string name="sleep_sound">Sounds</string>
+    <string name="waking_up">Waking up</string>
+    <string name="circadian_lighthouse">Circadian Lighthouse</string>
+    <string name="reset_default">Default</string>
+    <string name="reset_default_disc">Click for resetting settings to default values</string>
+    <string name="reset">reset</string>
+    <string name="backGround">Background color</string>
+    <string name="lift_up">LIFT UP</string>
+    <string name="sound_licence">"This app uses sounds of waves from freesound project and produced by www.digifishmusic.com.
+"Gentle Sea On Flat Beach" by digifishmusic (https://freesound.org/s/43760/) licensed under CCBYNC 4.0."</string>
+
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="FALL ASLEEP" />
+    <ListPreference android:key="fadeOutLevels"
+        android:title="@string/fadeOutProgression"
+        android:summary=""
+        android:entries="@array/progressionLevels"
+        android:entryValues="@array/progressionValues"
+        android:defaultValue="1"/>
+
+    <ListPreference android:key="nightIntervalLevels"
+        android:title="@string/nightIntervalProgression"
+        android:summary=""
+        android:entries="@array/progressionLevels"
+        android:entryValues="@array/progressionValues"
+        android:defaultValue="1"/>
+
+    <ListPreference android:key="sleep_sounds"
+        android:title="@string/sleep_sound"
+        android:summary=""
+        android:entries="@array/soundsArray"
+        android:entryValues="@array/soundValues"
+        android:defaultValue="1"/>
+
+    <PreferenceCategory android:title="LIFT UP"/>
+
+    <ListPreference android:key="backGround"
+        android:title="@string/backGround"
+        android:entries="@array/backGround"
+        android:entryValues="@array/backGroundValues"
+        android:defaultValue="1"/>
+
+    <ListPreference android:key="fadeInTime"
+        android:title="@string/fadeInTime"
+        android:summary=""
+        android:entries="@array/fadeInTime"
+        android:entryValues="@array/fadeInTimeValues"
+        android:defaultValue="30000"/>
+
+    <ListPreference android:key="wake_up_sounds"
+        android:title="@string/sound"
+        android:summary=""
+        android:entries="@array/wakeUpSoundsArray"
+        android:entryValues="@array/wakeUpSoundValues"
+        android:defaultValue="1"/>
+
+</PreferenceScreen>
